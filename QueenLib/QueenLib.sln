@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueenLib", "QueenLib\QueenLib.csproj", "{647D7B38-CFA2-4818-BCE2-33359BD846EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{A6CD8AB9-8FAC-4268-9DED-44F795CACB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcolatrice", "Calcolatrice\Calcolatrice.csproj", "{F5671815-7369-4A03-8DE9-04A52ECE4912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647D7B38-CFA2-4818-BCE2-33359BD846EA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{647D7B38-CFA2-4818-BCE2-33359BD846EA}.Debug|x86.Build.0 = Debug|Any CPU
+		{647D7B38-CFA2-4818-BCE2-33359BD846EA}.Release|x86.ActiveCfg = Release|Any CPU
+		{647D7B38-CFA2-4818-BCE2-33359BD846EA}.Release|x86.Build.0 = Release|Any CPU
+		{A6CD8AB9-8FAC-4268-9DED-44F795CACB3F}.Debug|x86.ActiveCfg = Debug|x86
+		{A6CD8AB9-8FAC-4268-9DED-44F795CACB3F}.Debug|x86.Build.0 = Debug|x86
+		{A6CD8AB9-8FAC-4268-9DED-44F795CACB3F}.Release|x86.ActiveCfg = Release|x86
+		{A6CD8AB9-8FAC-4268-9DED-44F795CACB3F}.Release|x86.Build.0 = Release|x86
+		{F5671815-7369-4A03-8DE9-04A52ECE4912}.Debug|x86.ActiveCfg = Debug|x86
+		{F5671815-7369-4A03-8DE9-04A52ECE4912}.Debug|x86.Build.0 = Debug|x86
+		{F5671815-7369-4A03-8DE9-04A52ECE4912}.Release|x86.ActiveCfg = Release|x86
+		{F5671815-7369-4A03-8DE9-04A52ECE4912}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Hello\Hello.csproj
+	EndGlobalSection
+EndGlobal
